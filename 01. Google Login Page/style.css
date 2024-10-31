@@ -31,3 +31,15 @@ body{
     font-size: 24px;
     font-weight: lighter;
 }
+.box p {
+    font-size: 16px;
+    font-weight: normal;
+    letter-spacing: 0.025rem;
+    line-height: 1.5;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.box .inputBox{
+    position:relative;
+}
+
