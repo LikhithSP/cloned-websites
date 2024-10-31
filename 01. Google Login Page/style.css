@@ -114,3 +114,27 @@ body{
     outline: none;
     border: 2px solid #1a73e8;
 }
+.para p{
+    text-align: left;
+    margin-top: 40px;
+    font-size: 13px;
+    left: 20px;
+    color: #686262;
+}
+.para a{
+    text-decoration: none;
+    color:rgb(26,115,232);
+    font-weight:550;
+    font-size: 14px;
+    cursor: pointer;
+}
+.create a{
+    text-decoration: none;
+    color: rgb(26,115,232);
+    font-weight:550;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    margin-top: 130px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
