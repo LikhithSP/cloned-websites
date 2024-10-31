@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    padding: 0;
+    background-size: cover;
+    background-color: #eff1f3;
+    font-family: "Google Sans","Noto Sans Myanmar UI",arial,sans-serif;
+}
+.box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 27rem;
+    padding: 2.5rem;
+    box-sizing: border-box;
+    border: 1px solid #dadce0;
+    border-radius: 8px;
+}
