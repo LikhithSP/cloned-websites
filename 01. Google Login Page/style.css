@@ -42,4 +42,25 @@ body{
 .box .inputBox{
     position:relative;
 }
+.box .inputBox input{
+    width: 93%;
+    padding: 1rem 10px;
+    font-size: 1rem;
+    letter-spacing: 0.062rem;
+    margin-bottom: 1.875rem;
+    border: 0.7px solid #e4d5d5;
+    background: transparent;
+    border-radius: 4px;
+}
+.box .inputBox label{
+    position: absolute;
+    top: 0;
+    left: 15px;
+    padding: 1rem 0;
+    letter-spacing: 0.02rem;
+    font-size: 1rem;
+    color: #706d6d;
+    pointer-events: none;
+    transition: 0.3s;
 
+}
