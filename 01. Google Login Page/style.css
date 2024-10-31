@@ -64,3 +64,34 @@ body{
     transition: 0.3s;
 
 }
+.forget{
+    margin-top: -20px;
+}
+.forget button{
+    border-radius: 4px;
+    color: #1a73e8;
+    display: inline-block;
+    font-weight:549;
+    outline: 0;
+    position:relative;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 0;
+    text-align: left;
+    border:0;
+}
+.box input[type='submit']{
+    border: none;
+    outline: none;
+    color:#fff;
+    background-color: #1a73e8;
+    padding: 0.625rem 1.25rem;
+    width: 90px;
+    cursor: pointer;
+    border-radius: 0.312rem;
+    font-size: 1rem;
+    font-weight: bold;
+    float: right;
+
+}
