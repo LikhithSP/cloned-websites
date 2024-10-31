@@ -16,3 +16,18 @@ body{
     border: 1px solid #dadce0;
     border-radius: 8px;
 }
+.google-logo{
+    display:flex;
+    justify-content: center;
+    padding-bottom: 15px;
+    height: 25px;
+}
+.box h3{
+    margin: 0 0 -0.125rem;
+    padding: 0;
+    color: #1b1a1a;
+    text-align: center;
+    letter-spacing: 0.01rem;
+    font-size: 24px;
+    font-weight: lighter;
+}
