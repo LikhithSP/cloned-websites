@@ -1,11 +1,11 @@
 # Google Login Page Clone
 
 <p align="center">
-  <img src="https://th.bing.com/th/id/R.4aa108082e7d3cbd55add79f84612aaa?rik=I4dbPhSe%2fbHHSg&riu=http%3a%2f%2fpurepng.com%2fpublic%2fuploads%2flarge%2fpurepng.com-google-logo-2015brandlogobrand-logoiconssymbolslogosgoogle-6815229372333mqrr.png&ehk=ewmaCOvP0Ji4QViEJnxSdlrYUrTSTWhi8nZ9XdyCgAI%3d&risl=&pid=ImgRaw&r=0" alt="Google Logo" width="150">
+  <img src="https://i.ibb.co/1fF0j6x/image-2.png">
 </p>
 
 <p align="center">
-  A simple and responsive clone of the Google Login Page using HTML and CSS.
+  <strong>A simple and responsive clone of the Google Login Page using HTML and CSS.</strong>
 </p>
 
 
@@ -27,4 +27,16 @@ This project replicates the Google Login Page, offering a clean, responsive desi
 - **HTML5**: For creating the structure and semantic elements.
 - **CSS3**: For styling, including Flexbox, media queries, and pseudo-classes for interactive effects.
 
-## 📦 Setup
+## 🌐 Demo
+You can view a live version of this project <a href="https://likhithsp.github.io/cloned-websites/">here</a>
+
+<h2>🤝 Connect With Me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/likhithsp" target="_blank">
+    <img src="https://img.icons8.com/?size=60&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" class="icon">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.github.com/LikhithSP" target="_blank">
+    <img src="https://img.icons8.com/?size=60&id=46565&format=png&color=000000" alt="GitHub" class="icon">
+  </a>
+</p>
