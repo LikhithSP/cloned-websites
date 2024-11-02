@@ -16,3 +16,40 @@
     height:50px;
     width:113px;
 }
+.logo{
+    background-image: url("amazon_logo.png");
+    height:50px;
+    width:113px;
+    background-size: cover;
+}
+
+.border {
+     border: 1.5px solid transparent;
+}
+
+.border:hover { 
+    border: 1.5px solid white;
+}
+
+.add-first{
+    color: #cccccc;
+    font-size: 0.8rem;
+    margin-left: 15px;
+}
+.add-icon{
+    display: flex;
+    align-items: center;
+}
+.add-sec{
+    font-size: 1rem;
+    margin-left: 3px;
+
+}
+.nav-search{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: blue;
+    width:650px;
+    height:40px;
+    border-radius: 4px;
+}
