@@ -104,9 +104,6 @@ cd cloned-websites/project-name
 
 ---
 
-<h2>🎨 Screenshots</h2>
-
-<p>Include screenshots or gifs of each project to showcase the UI and interactive elements. Place them in the <code>assets</code> folder of each project and link them here.</p>
 
 ---
 
