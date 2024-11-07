@@ -111,4 +111,4 @@ cd cloned-websites/project-name
 
 <p>A big thanks to the creators of the original websites for their inspiring designs, and to the open-source community for the tools and frameworks used in these projects.</p>
 
-<p><i>Tip</i>: Replace placeholders like <code>project-name</code> with the actual names, provide descriptions for each clone, and add links to live demos if available.</p>
+
