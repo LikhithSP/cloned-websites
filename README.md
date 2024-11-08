@@ -118,6 +118,6 @@ cd cloned-websites/project-name
 
 <h2>⭐ Acknowledgements</h2>
 
-<p>A big thanks to the creators of the original websites for their inspiring designs, and to the open-source community for the tools and frameworks used in these projects.</p>
+<p>A big thanks to the creators of the original websites for their inspiring designs, and to the open-source community for the tools used in these projects.</p>
 
 
