@@ -102,14 +102,16 @@ cd cloned-websites/project-name
 
 ---
 
-<h2>💬 Contact</h2>
-
-<p>If you have any questions or suggestions, please reach out to me:</p>
-
-<ul>
-  <li><b>GitHub:</b> <a href="https://github.com/LikhithSP">@LikhithSP</a></li>
-  <li><b>LinkedIn:</b> <a href="https://linkedin.com/in/your-profile">Your LinkedIn Profile</a></li>
-</ul>
+<h2>🤝 Connect With Me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/likhithsp" target="_blank">
+    <img src="https://img.icons8.com/?size=60&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" class="icon">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.github.com/LikhithSP" target="_blank">
+    <img src="https://img.icons8.com/?size=60&id=46565&format=png&color=000000" alt="GitHub" class="icon">
+  </a>
+</p>
 
 ---
 
