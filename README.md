@@ -68,7 +68,6 @@
   <li><b>HTML5 & CSS3</b></li>
   <li><b>JavaScript</b></li>
   <li><b>Responsive Design Techniques</b></li>
-  <li><b>Modern CSS Frameworks</b> (e.g., Bootstrap, Tailwind CSS if used)</li>
 </ul>
 
 ---
