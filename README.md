@@ -3,6 +3,33 @@
 <p align="center">A collection of website clones designed to sharpen front-end development skills and explore the architecture of popular sites. Each project is a detailed recreation of popular websites, showcasing HTML, CSS, JavaScript, and modern web technologies.</p>
 
 ---
+<p align="center">
+  <img src="https://i.ibb.co/YBRtyJT/image-4.png">
+</p>
+<p align="center">
+  <strong>This project is a frontend replica of the Amazon homepage, built with HTML, CSS, and Font Awesome icons. It's a responsive and modern recreation aimed at replicating Amazon's visual style and functionality.
+</strong>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/1fF0j6x/image-2.png">
+</p>
+
+<p align="center">
+  <strong>A simple and responsive clone of the Google Login Page using HTML and CSS.</strong>
+</p>
+
+---
+<p align="center">
+  <img src="https://i.ibb.co/mH4H88f/image-3.png">
+</p>
+<p align="center">
+  <strong>A simple clone of the Netflix Sign-in Page using HTML and CSS.</strong>
+</p>
+
+---
 
 <h2>📌 Project Overview</h2>
 
@@ -46,24 +73,7 @@
 
 ---
 
-<h2>🔍 Website Clones</h2>
 
-<ol>
-  <li><b>Website Name</b>
-    <ul>
-      <li>Description: Brief description of the website cloned and its purpose.</li>
-      <li>Link: <a href="https://example.com">Live Demo</a> | <a href="./project-folder">Source Code</a></li>
-    </ul>
-  </li>
-  <li><b>Website Name</b>
-    <ul>
-      <li>Description: Brief description of the website cloned and its purpose.</li>
-      <li>Link: <a href="https://example.com">Live Demo</a> | <a href="./project-folder">Source Code</a></li>
-    </ul>
-  </li>
-</ol>
-
----
 
 <h2>🎉 Getting Started</h2>
 
